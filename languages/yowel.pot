@@ -1,0 +1,1015 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: yowel\n"
+"POT-Creation-Date: 2018-09-11 19:34+0600\n"
+"PO-Revision-Date: 2018-09-11 19:35+0600\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.1.1\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Poedit-KeywordsList: __;_e;_n;esc_html__;_x\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: 404.php:21 includes/configuration/theme-options.php:195
+msgid "404"
+msgstr ""
+
+#: 404.php:22
+#, php-format
+msgid "%s"
+msgstr ""
+
+#: 404.php:25
+msgid "Back To Home"
+msgstr "Back To Home"
+
+#: author.php:49 template-parts/content-archive.php:23
+#: template-parts/content-audio.php:29 template-parts/content-column.php:61
+#: template-parts/content-gallery.php:53 template-parts/content-link.php:22
+#: template-parts/content-search.php:24
+#: template-parts/content-single-audio.php:33
+#: template-parts/content-single-gallery.php:55
+#: template-parts/content-single-video.php:33
+#: template-parts/content-single.php:26 template-parts/content-video.php:29
+#: template-parts/content.php:22
+msgid "Category :"
+msgstr "Category :"
+
+#: author.php:69 template-parts/content-archive.php:41
+#: template-parts/content-audio.php:54 template-parts/content-column.php:50
+#: template-parts/content-gallery.php:76 template-parts/content-link.php:41
+#: template-parts/content-page.php:28 template-parts/content-search.php:43
+#: template-parts/content-single-audio.php:55
+#: template-parts/content-single-gallery.php:75
+#: template-parts/content-single-video.php:55
+#: template-parts/content-single.php:45 template-parts/content-video.php:54
+#: template-parts/content.php:41
+msgid "Pages:"
+msgstr ""
+
+#: author.php:73 core/libs/breadcrumbs.php:253
+#: template-parts/content-archive.php:45 template-parts/content-audio.php:58
+#: template-parts/content-column.php:54 template-parts/content-gallery.php:80
+#: template-parts/content-link.php:45 template-parts/content-page.php:32
+#: template-parts/content-search.php:47
+#: template-parts/content-single-audio.php:59
+#: template-parts/content-single-gallery.php:79
+#: template-parts/content-single-video.php:59
+#: template-parts/content-single.php:49 template-parts/content-video.php:58
+#: template-parts/content.php:45
+msgid "Page"
+msgstr ""
+
+#: author.php:85 template-parts/content-archive.php:65
+#: template-parts/content-audio.php:78 template-parts/content-column.php:66
+#: template-parts/content-gallery.php:100 template-parts/content-link.php:65
+#: template-parts/content-page.php:39
+#: template-parts/content-single-audio.php:65
+#: template-parts/content-single-gallery.php:85
+#: template-parts/content-single-video.php:65
+#: template-parts/content-single.php:55 template-parts/content-video.php:78
+#: template-parts/content.php:69
+#, php-format
+msgid "Edit<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
+
+#: author.php:98
+msgid "No posts by this author."
+msgstr ""
+
+#: comments.php:62
+msgid "Leave a comment"
+msgstr ""
+
+#: comments.php:63
+#, php-format
+msgid "Leave a comment to %s"
+msgstr ""
+
+#: comments.php:66
+msgid "Cancel Reply"
+msgstr ""
+
+#: comments.php:67
+msgid "Leave a reply"
+msgstr ""
+
+#: comments.php:72
+#, php-format
+msgid "You must be <a href=\"%s\">logged in</a> to post a comment."
+msgstr ""
+
+#: comments.php:78
+#, php-format
+msgid ""
+"Logged in as <a href=\"%1$s\">%2$s</a>. <a href=\"%3$s\" title=\"Log out of "
+"this account\">Log out?</a>"
+msgstr ""
+
+#: core/libs/admin-menu.php:79
+msgid ""
+"If you can't find answer to your problem in Documentation please register on "
+"our <a href='#' target='_BLANK'>support forum</a>.\n"
+"                    We have dedicated team that will help you with your "
+"problem."
+msgstr ""
+
+#: core/libs/admin-menu.php:81
+msgid ""
+"Note that before registering you will need to obtain Purchase code from "
+"ThemeForest. Read <a href='#' target='_BLANK'>here</a> how to obtain key."
+msgstr ""
+
+#: core/libs/breadcrumbs.php:18
+msgid "Home"
+msgstr ""
+
+#: core/libs/breadcrumbs.php:77
+msgid "Category:"
+msgstr ""
+
+#: core/libs/breadcrumbs.php:79
+msgid "Search results:"
+msgstr ""
+
+#: core/libs/breadcrumbs.php:242
+msgid "Tag:"
+msgstr ""
+
+#: core/libs/breadcrumbs.php:247
+msgid "Author: "
+msgstr ""
+
+#: core/libs/breadcrumbs.php:249
+msgid "Error 404"
+msgstr ""
+
+#: core/libs/core.php:137
+msgid ""
+"Please activate <strong>Custom post types</strong> and <strong>MetaBox</"
+"strong> plugins."
+msgstr ""
+
+#: core/libs/external/Wpbucket_Thumb.php:104
+msgid ""
+"The server does not have ImageMagick or GD installed and/or enabled! Any of "
+"these libraries are required for WordPress to be able to resize images. "
+"Please contact your server administrator to enable this before continuing."
+msgstr ""
+
+#: core/libs/external/Wpbucket_Thumb.php:232
+msgid "Image rotate failed."
+msgstr ""
+
+#: core/libs/external/Wpbucket_Thumb.php:255
+msgid "Image opacity change failed."
+msgstr ""
+
+#: core/libs/external/Wpbucket_Thumb.php:342
+msgid "Image color change failed."
+msgstr ""
+
+#: core/libs/external/Wpbucket_Thumb.php:359
+msgid "Image grayscale failed."
+msgstr ""
+
+#: core/libs/external/Wpbucket_Thumb.php:376
+msgid "Image negate failed."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:334
+#: includes/configuration/plugin-list.php:103
+msgid "Install Required Plugins"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:335
+#: includes/configuration/plugin-list.php:104
+msgid "Install Plugins"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:337
+#: includes/configuration/plugin-list.php:105
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:339
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:340
+#: includes/configuration/plugin-list.php:106
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:392
+#: includes/configuration/plugin-list.php:117
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:393
+#: core/libs/external/class-tgm-plugin-activation.php:912
+#: core/libs/external/class-tgm-plugin-activation.php:2618
+#: core/libs/external/class-tgm-plugin-activation.php:3665
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:394
+#: core/libs/external/class-tgm-plugin-activation.php:3244
+#: includes/configuration/plugin-list.php:118
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:395
+#: core/libs/external/class-tgm-plugin-activation.php:3037
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:397
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:399
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:401
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:402
+msgid "Dismiss this notice"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:403
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:404
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:608
+msgid "Update Required"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:1019
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:1019
+#: core/libs/external/class-tgm-plugin-activation.php:1022
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:1022
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2067
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2358
+msgid "Required"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2361
+msgid "Recommended"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2377
+msgid "WordPress Repository"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2380
+msgid "External Source"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2383
+msgid "Pre-Packaged"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2400
+msgid "Not Installed"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2404
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2406
+msgid "Active"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2412
+msgid "Required Update not Available"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2415
+msgid "Requires Update"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2418
+msgid "Update recommended"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2427
+#, php-format
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2477
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2481
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2485
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2567
+msgid "unknown"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2575
+msgid "Installed version:"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2583
+msgid "Minimum required version:"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2595
+msgid "Available version:"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2618
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2632
+msgid "Plugin"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2633
+msgid "Source"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2634
+msgid "Type"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2638
+msgid "Version"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2639
+msgid "Status"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2688
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2693
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2699
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2769
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2802
+msgid "Install"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2808
+msgid "Update"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2811
+msgid "Activate"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2842
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2844
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2885
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2887
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:2993
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3019
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3243
+msgid "Plugin activation failed."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3583
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3586
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3588
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3592
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3594
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3594
+#: core/libs/external/class-tgm-plugin-activation.php:3602
+msgid "Show Details"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3594
+#: core/libs/external/class-tgm-plugin-activation.php:3602
+msgid "Hide Details"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3595
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3597
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3600
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3602
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3603
+msgid "All installations have been completed."
+msgstr ""
+
+#: core/libs/external/class-tgm-plugin-activation.php:3605
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#: core/libs/menus.php:192
+msgid "Add a menu"
+msgstr ""
+
+#: core/theme-options/custom-fields/select_image/field_select_image.php:58
+msgid "Select an item"
+msgstr ""
+
+#: core/theme-options/custom-fields/select_image/field_select_image.php:140
+msgid "No items of this type were found."
+msgstr ""
+
+#: core/theme-options/custom-fields/select_label/field_select_label.php:64
+#: core/theme-options/custom-fields/select_text/field_select_text.php:65
+msgid "Add More"
+msgstr ""
+
+#: core/theme-options/custom-fields/select_label/field_select_label.php:109
+#: core/theme-options/custom-fields/select_label/field_select_label.php:132
+msgid "Please set primary Menu."
+msgstr ""
+
+#: core/theme-options/custom-fields/select_text/field_select_text.php:92
+#: core/theme-options/custom-fields/select_text/field_select_text.php:114
+msgid "Remove"
+msgstr ""
+
+#: footer.php:44
+msgid "partner-image"
+msgstr ""
+
+#: functions.php:52
+msgid "Uncaught error, can not submit your listing."
+msgstr ""
+
+#: functions.php:53
+msgid "Your submission is now on pending stage. You will be notified shortly"
+msgstr ""
+
+#: includes/configuration/plugin-list.php:119
+#, php-format
+msgid "All plugins installed and activated successfully. %s"
+msgstr ""
+
+#: includes/configuration/post-metabox.php:22
+msgid "Project Information"
+msgstr ""
+
+#: includes/configuration/post-metabox.php:29
+msgid "Oembed Code for video format."
+msgstr ""
+
+#: includes/configuration/post-metabox.php:36
+msgid "Post format gallery style."
+msgstr ""
+
+#: includes/configuration/post-metabox.php:50
+msgid "Post format gallery select images."
+msgstr ""
+
+#: includes/configuration/post-metabox.php:67
+msgid "Shortcode after header"
+msgstr ""
+
+#: includes/configuration/post-metabox.php:77
+msgid "Shortcode after posts or content"
+msgstr ""
+
+#: includes/configuration/post-metabox.php:87
+msgid "Shortcode before footer"
+msgstr ""
+
+#: includes/configuration/theme-options.php:31
+#: includes/configuration/theme-options.php:32
+msgid "Theme Options"
+msgstr ""
+
+#: includes/configuration/theme-options.php:135
+msgid "Header"
+msgstr ""
+
+#: includes/configuration/theme-options.php:141
+msgid "Logo"
+msgstr ""
+
+#: includes/configuration/theme-options.php:143
+msgid "Upload logo for your website."
+msgstr ""
+
+#: includes/configuration/theme-options.php:148
+#: includes/configuration/theme-options.php:421
+msgid "Social Icons"
+msgstr ""
+
+#: includes/configuration/theme-options.php:149
+#: includes/configuration/theme-options.php:422
+msgid ""
+"Add social icons and respective URLs that will be rendered at footer section."
+msgstr ""
+
+#: includes/configuration/theme-options.php:157
+msgid "Contact Page"
+msgstr ""
+
+#: includes/configuration/theme-options.php:162
+msgid "Map Area Show or Hide"
+msgstr ""
+
+#: includes/configuration/theme-options.php:163
+msgid "Set map area visibility."
+msgstr ""
+
+#: includes/configuration/theme-options.php:165
+#: includes/configuration/theme-options.php:224
+#: includes/configuration/theme-options.php:258
+#: includes/configuration/theme-options.php:283
+#: includes/configuration/theme-options.php:292
+#: includes/configuration/theme-options.php:347
+msgid "Show"
+msgstr ""
+
+#: includes/configuration/theme-options.php:166
+#: includes/configuration/theme-options.php:225
+#: includes/configuration/theme-options.php:259
+#: includes/configuration/theme-options.php:284
+#: includes/configuration/theme-options.php:293
+#: includes/configuration/theme-options.php:348
+msgid "Hide"
+msgstr ""
+
+#: includes/configuration/theme-options.php:171
+msgid "Google map api key"
+msgstr ""
+
+#: includes/configuration/theme-options.php:172
+msgid "Write your google map API key."
+msgstr ""
+
+#: includes/configuration/theme-options.php:182
+msgid "Contact Info"
+msgstr ""
+
+#: includes/configuration/theme-options.php:183
+msgid ""
+"Enter Contact Information. Separated Heading and Description with * sign."
+msgstr ""
+
+#: includes/configuration/theme-options.php:200
+msgid "404 Heading"
+msgstr ""
+
+#: includes/configuration/theme-options.php:201
+msgid "Enter 404 page heading."
+msgstr ""
+
+#: includes/configuration/theme-options.php:207
+msgid "404 Description"
+msgstr ""
+
+#: includes/configuration/theme-options.php:208
+msgid "Enter description text."
+msgstr ""
+
+#: includes/configuration/theme-options.php:216
+msgid "Social Share"
+msgstr ""
+
+#: includes/configuration/theme-options.php:221
+msgid "Set Social share"
+msgstr ""
+
+#: includes/configuration/theme-options.php:222
+msgid "Hide or show social share at blog post."
+msgstr ""
+
+#: includes/configuration/theme-options.php:230
+msgid "Select social platform"
+msgstr ""
+
+#: includes/configuration/theme-options.php:231
+msgid "Select social platform whatever you want"
+msgstr ""
+
+#: includes/configuration/theme-options.php:250
+msgid "Footer"
+msgstr ""
+
+#: includes/configuration/theme-options.php:255
+msgid "Footer Show or Hide"
+msgstr ""
+
+#: includes/configuration/theme-options.php:256
+msgid "Set footer visibility."
+msgstr ""
+
+#: includes/configuration/theme-options.php:265
+msgid "Footer Logo"
+msgstr ""
+
+#: includes/configuration/theme-options.php:267
+msgid "Upload footer logo for your website."
+msgstr ""
+
+#: includes/configuration/theme-options.php:272
+msgid "Copyright Text"
+msgstr ""
+
+#: includes/configuration/theme-options.php:273
+msgid "Enter copyright text."
+msgstr ""
+
+#: includes/configuration/theme-options.php:280
+msgid "Show/Hide Scroll to top"
+msgstr ""
+
+#: includes/configuration/theme-options.php:281
+msgid "Show or hide scroll to top button."
+msgstr ""
+
+#: includes/configuration/theme-options.php:289
+msgid "Newsletter"
+msgstr ""
+
+#: includes/configuration/theme-options.php:290
+msgid "Set Newsletter Shortcode."
+msgstr ""
+
+#: includes/configuration/theme-options.php:298
+msgid "Body Background"
+msgstr ""
+
+#: includes/configuration/theme-options.php:299
+msgid "Body background with image, color, etc."
+msgstr ""
+
+#: includes/configuration/theme-options.php:300
+#: includes/configuration/theme-options.php:355
+msgid "Set Background Image or Color."
+msgstr ""
+
+#: includes/configuration/theme-options.php:311
+msgid "Form Header"
+msgstr ""
+
+#: includes/configuration/theme-options.php:312
+msgid "Enter Form Header"
+msgstr ""
+
+#: includes/configuration/theme-options.php:322
+msgid "Form Sub Header"
+msgstr ""
+
+#: includes/configuration/theme-options.php:323
+msgid "Enter Form Sub Header"
+msgstr ""
+
+#: includes/configuration/theme-options.php:333
+msgid "Form Shortcode"
+msgstr ""
+
+#: includes/configuration/theme-options.php:334
+msgid "Enter Form Shortcode"
+msgstr ""
+
+#: includes/configuration/theme-options.php:344
+msgid "Insta Gallery"
+msgstr ""
+
+#: includes/configuration/theme-options.php:345
+msgid "Set Insta Gallery visibility. This section shows before footer."
+msgstr ""
+
+#: includes/configuration/theme-options.php:353
+msgid "Insta Background"
+msgstr ""
+
+#: includes/configuration/theme-options.php:354
+msgid "Insta background with image, color, etc."
+msgstr ""
+
+#: includes/configuration/theme-options.php:366
+msgid "Insta Header"
+msgstr ""
+
+#: includes/configuration/theme-options.php:367
+msgid "Enter Insta Header"
+msgstr ""
+
+#: includes/configuration/theme-options.php:377
+msgid "Insta Sub Header"
+msgstr ""
+
+#: includes/configuration/theme-options.php:378
+msgid "Enter Insta Sub Header"
+msgstr ""
+
+#: includes/configuration/theme-options.php:388
+msgid "Insta Button Text"
+msgstr ""
+
+#: includes/configuration/theme-options.php:389
+msgid "Enter Insta Button Text"
+msgstr ""
+
+#: includes/configuration/theme-options.php:399
+msgid "Insta Button URL"
+msgstr ""
+
+#: includes/configuration/theme-options.php:400
+msgid "Enter Insta Button URL"
+msgstr ""
+
+#: includes/configuration/theme-options.php:410
+msgid "Instagram Images"
+msgstr ""
+
+#: includes/configuration/theme-options.php:411
+msgid "Select Instagram Images."
+msgstr ""
+
+#: includes/wpbucket-enqueue.php:125
+msgid "on"
+msgstr ""
+
+#: includes/wpbucket-filters.php:147 includes/wpbucket-filters.php:150
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: includes/wpbucket-filters.php:462
+msgid "LinkedIn Profile Link"
+msgstr ""
+
+#: includes/wpbucket-filters.php:463
+msgid "Twitter Profile Link"
+msgstr ""
+
+#: includes/wpbucket-filters.php:464
+msgid "Facebook Profile Link"
+msgstr ""
+
+#: includes/wpbucket-filters.php:465
+msgid "Google Plus Profile Link"
+msgstr ""
+
+#: includes/wpbucket-filters.php:466
+msgid "Youtube Profile Link"
+msgstr ""
+
+#: includes/wpbucket-filters.php:467
+msgid "Your Expertise"
+msgstr ""
+
+#: includes/wpbucket-filters.php:468
+msgid "Your Signature"
+msgstr ""
+
+#: includes/wpbucket-helpers.php:80
+msgid "No Comments"
+msgstr ""
+
+#: includes/wpbucket-helpers.php:82
+msgid " Comments"
+msgstr ""
+
+#: includes/wpbucket-helpers.php:84
+msgid "1 Comment"
+msgstr ""
+
+#: includes/wpbucket-helpers.php:93
+msgid "Comments are off for this post."
+msgstr ""
+
+#: includes/wpbucket-helpers.php:110
+msgid "Review"
+msgstr ""
+
+#: includes/wpbucket-helpers.php:112
+msgid " Reviews"
+msgstr ""
+
+#: includes/wpbucket-helpers.php:114
+msgid "1 Review"
+msgstr ""
+
+#: includes/wpbucket-helpers.php:123
+msgid "Reviews are off for this post."
+msgstr ""
+
+#: includes/wpbucket-partials.php:262
+msgid "&#60; Previous"
+msgstr ""
+
+#: includes/wpbucket-partials.php:263
+msgid "Next &#62;"
+msgstr ""
+
+#: includes/wpbucket-partials.php:322
+msgid "About the Author"
+msgstr ""
+
+#: includes/wpbucket-partials.php:353 includes/wpbucket-partials.php:400
+msgid "Edit"
+msgstr ""
+
+#: includes/wpbucket-partials.php:370
+msgid "Reply"
+msgstr ""
+
+#: includes/wpbucket-partials.php:374 includes/wpbucket-partials.php:428
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: includes/wpbucket-partials.php:504
+msgid "Features"
+msgstr ""
+
+#: includes/wpbucket-sidebars.php:16 includes/wpbucket-sidebars.php:18
+msgid "Main Sidebar"
+msgstr ""
+
+#: includes/wpbucket-sidebars.php:38 includes/wpbucket-sidebars.php:40
+msgid "Footer Sidebar"
+msgstr ""
+
+#: includes/wpbucket-sidebars.php:60 includes/wpbucket-sidebars.php:62
+msgid "Header Sidebar"
+msgstr ""
+
+#: includes/wpbucket-sidebars.php:97
+msgid "An optional widget area for page "
+msgstr ""
+
+#: search.php:14
+msgid "Search Result For: "
+msgstr ""
+
+#: template-parts/content-archive.php:55 template-parts/content-audio.php:68
+#: template-parts/content-column.php:35 template-parts/content-gallery.php:90
+#: template-parts/content-link.php:55 template-parts/content-search.php:56
+#: template-parts/content-single-audio.php:78
+#: template-parts/content-single-gallery.php:98
+#: template-parts/content-single-video.php:78
+#: template-parts/content-single.php:68 template-parts/content-video.php:68
+#: template-parts/content.php:59
+msgid "By"
+msgstr ""
+
+#: template-parts/content-none.php:12
+msgid "Nothing Found"
+msgstr ""
+
+#: template-parts/content-none.php:18
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:22
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:27
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: template-parts/content-single-audio.php:102
+#: template-parts/content-single-gallery.php:122
+#: template-parts/content-single-video.php:102
+#: template-parts/content-single.php:91
+msgid "You amy also like"
+msgstr ""
+
+#: template-parts/content-single-audio.php:152
+#: template-parts/content-single-gallery.php:172
+#: template-parts/content-single-video.php:152
+#: template-parts/content-single.php:141
+msgid "Previous Post"
+msgstr ""
+
+#: template-parts/content-single-audio.php:178
+#: template-parts/content-single-gallery.php:198
+#: template-parts/content-single-video.php:178
+#: template-parts/content-single.php:167
+msgid "Next Post"
+msgstr ""
+
+#: template-parts/content-single.php:40
+#, php-format
+msgid "Continue reading<span class=\"screen-reader-text\"> \"%s\"</span>"
+msgstr ""
