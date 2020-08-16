@@ -18,5 +18,5 @@
 * Go to Demo Importer and press Import Button
 * If successfull then shows "Demo content has been successfully imported!" message
 ## Prerequisite and careful before demo install
-* It Truncated Database Table
+* It Truncated Database Table. Fresh WordPress installed is good.
 * Plugns need activated (to show the front end output)
